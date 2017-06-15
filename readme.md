@@ -1,4 +1,4 @@
-# Character level models
+# Character level models [BJH Fork for Patent Data]
 
 Requirements:
 
@@ -10,7 +10,8 @@ Requirements:
 
 - numpy 
 
-for more information go to my [blogpost](https://offbit.github.io/how-to-read/)
+Forked from here: https://github.com/offbit/char-models -using as a starting point for applying charCNN for character / sentence / document encoding.
 
-update 17/03/2017: Models are updated for keras 2 and tf 1.0.
+For more details see this great [blogpost](https://offbit.github.io/how-to-read/)
+
 
